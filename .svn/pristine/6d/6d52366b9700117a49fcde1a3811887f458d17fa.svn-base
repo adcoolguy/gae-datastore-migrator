@@ -1,0 +1,6 @@
+net/styleguise/tools/DatastoreMigrator.class
+net/styleguise/tools/RemoteDatastoreClient.class
+net/styleguise/tools/BeanUtil.class
+net/styleguise/tools/PersistenceXmlReader.class
+net/styleguise/tools/DatastoreImporter.class
+net/styleguise/tools/DatastoreExporter.class

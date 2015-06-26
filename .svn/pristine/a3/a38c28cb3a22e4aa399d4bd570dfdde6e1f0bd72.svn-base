@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+filesCopiedToWebInfLib=
+gaeDatanucleusVersion=v2
+googleCloudSqlEnabled=false
+localDevMySqlEnabled=true
+validationExclusions=src/main/java/net/styleguise/tools/
